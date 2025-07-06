@@ -1,6 +1,6 @@
 ## Hey 👋 I'm Ravishankar
 
-- 🔭 I’m currently working as Senior Software Engineer @Eventbrite
+- 🔭 I’m currently working as Lead Engineer @Razorpay
 - 🧐 I’m curious about Distributed Systems and Backend Technologies
 - 🌱 I’m currently learning Python and Go
 
