@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Software Engineer @Razorpay
 - 🧐 I’m curious about Distributed Systems and Backend Technologies
-- 🌱 I’m currently learning Python and Go
+- 🌱 I’m currently handson in Golang
 
 ---
 
