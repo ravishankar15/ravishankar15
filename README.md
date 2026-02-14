@@ -1,6 +1,6 @@
 ## Hey 👋 I'm Ravishankar
 
-- 🔭 I’m currently working as Software Engineer @Razorpay
+- 🔭 I’m currently working as Senior Software Engineer
 - 🧐 I’m curious about Distributed Systems and Backend Technologies
 - 🌱 I’m currently handson in Golang
 
